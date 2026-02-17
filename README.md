@@ -1,4 +1,4 @@
-HI# apurva.github.io
+
 
 <h1>Enterprise SOC Homelab – Active Directory Security Monitoring Lab</h1>
 📌 Project Overview
